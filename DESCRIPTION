@@ -1,7 +1,7 @@
 Package: TSAR
 Type: Package
 Title: Thermal Shift Analysis in R
-Version: 1.11.0
+Version: 1.11.1
 Year: 2025
 Authors@R: c(person("Xinlin", 
 			"Gao", 
@@ -66,3 +66,4 @@ DataRawr: data/example_tsar_data.rda
 Depends: 
     R (>= 4.3.0)
 Config/testthat/edition: 3
+PackageStatus: Deprecated
